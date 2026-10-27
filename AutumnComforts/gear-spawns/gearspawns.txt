@@ -1,0 +1,78 @@
+#----------------------
+loottable=KitchenDrawer
+#----------------------
+item=RawPumpkinSeeds w=2
+item=PreparedPumpkin w=1
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=Pumpkin w=1
+item=RawPumpkinSeeds w=3
+item=PreparedPumpkin w=2
+
+#-------------------------
+loottable=VehicleTrunkLocked
+#-------------------------
+item=Pumpkin w=1
+
+#-------------------------
+loottable=LootTableVegetableCart
+#-------------------------
+item=Pumpkin w=3
+item=RawPumpkinSeeds w=1
+item=PreparedPumpkin w=2
+
+scene=AshCanyonRegion
+
+item=GEAR_Pumpkin p=247.3470,260.9154,426.9158 r=341.2583,14.4207,15.2972 c=85
+item=GEAR_Pumpkin p=246.3379,260.9997,426.2385 r=12.1627,331.8525,61.7003 c=75
+
+scene=AshWoodCabinA
+item=GEAR_RawPumpkinSeeds p=-0.7486,0.8728,-3.3794 r=-0.0000,31.8824,-0.0000 c=50
+
+scene=AshCabinD
+item=GEAR_PreparedPumpkin p=-2.1525,0.8043,2.3232 r=0.0000,244.9457,0.0000 c=50
+
+scene=HuntingLodgeA
+item=GEAR_PumpkinDeco p=-10.0588,-2.9844,0.6991 r=-0.0000,21.1315,-0.0000 c=65
+item=GEAR_CookedPumpkinPie p=-1.1837,7.0434,-8.2399 r=356.5015,88.4149,356.4734 c=50
+
+scene=BunkerXL
+item=GEAR_Pumpkin p=7.6169,1.0181,24.1805 r=-0.0000,34.9826,-0.0000 c=100
+
+scene=QuonsetGasStation
+item=GEAR_Pumpkin p=4.0662,0.4094,4.7044 r=-0.0000,50.7721,-0.0000 c=50
+
+scene=AirfieldRegion
+item=GEAR_Pumpkin p=-739.9594,292.9794,1145.0494 r=2.3453,316.4140,349.3797 c=70
+item=GEAR_Pumpkin p=-740.2049,293.1063,1146.0750 r=31.7668,118.7168,347.4911 c=50
+
+scene=MountainTownRegion
+item=GEAR_Pumpkin p=542.9352,222.6010,1528.3826 r=-0.0000,17.5436,-0.0000 c=70
+item=GEAR_Pumpkin p=542.8935,222.6010,1528.8176 r=-0.0000,109.5546,-0.0000 c=50
+
+scene=RuralRegion
+item=GEAR_Pumpkin p=2325.3845,53.7370,2254.4873 r=29.8858,330.3373,5.4967 c=100
+item=GEAR_Pumpkin p=2326.4917,53.6373,2254.0706 r=354.9786,302.0586,18.8857 c=65
+
+scene=RuralStoreA
+item=GEAR_Pumpkin p=-1.5608,1.6266,-7.5541 r=-0.0000,52.7876,-0.0000 c=40
+
+scene=MiltonHouseA
+item=GEAR_Pumpkin p=-5.0309,0.0100,-3.3232 r=-0.0000,141.5193,-0.0000 c=20
+
+scene=CoastalHouseA
+item=GEAR_Pumpkin p=-3.6132,0.0100,-3.3913 r=-0.0000,70.1130,-0.0000 c=20
+
+scene=CoastalHouseB
+item=GEAR_Pumpkin p=-4.6107,0.0100,3.5819 r=0.0000,311.2763,0.0000 c=20
+
+scene=CoastalHouseC
+item=GEAR_Pumpkin p=-9.3458,-0.0000,-4.6460 r=-0.0000,2.0220,-0.0000 c=20
+
+scene=CoastalHouseE
+item=GEAR_Pumpkin p=-3.7159,0.0100,-3.4901 r=0.0000,326.2007,0.0000 c=20
+
+scene=ModFishingLodge
+item=GEAR_Pumpkin p=-17.2644,1.3471,5.1244 r=0.0000,324.3489,0.0000 c=40

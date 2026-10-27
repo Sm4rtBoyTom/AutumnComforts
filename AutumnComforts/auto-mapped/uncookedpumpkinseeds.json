@@ -1,0 +1,54 @@
+{
+  "ModCookableComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_UncookedPumpkinSeeds",
+    "DescriptionLocalizatonId": "GAMEPLAY_UncookedPumpkinSeedsDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.05,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Food",
+    "PickUpAudio": "Play_SndInvPlantAcorns",
+    "PutBackAudio": "Play_SndInvPlantAcorns_Drop",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.45,
+    "InspectAngles": [
+      -25.0,
+      50.0,
+      -45.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "Cooking": true,
+    "CookingMinutes": 20,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0.0,
+    "CookingResult": "GEAR_CookedPumpkinSeeds",
+    "BurntMinutes": 25,
+    "Type": "Meat",
+    "CookingAudio": "Play_cookingPlacementPotato",
+    "StartCookingAudio": "Play_SndInvPlantAcornsShelled_Drop"
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "",
+    "MultipleUnitTextId": "",
+    "StackSprite": "ico_units_acorn",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_UncookedPumpkinSeeds",
+    "StackConditionDifferenceConstraint": 1.0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "RecipeName": "GAMEPLAY_CookedPumpkinSoup",
+  "RecipeDescription": "GAMEPLAY_CookedPumpkinSoupDescription",
+  "RecipeIcon": "",
+  "RequiredSkillLevel": 1,
+  "AllowedCookingPots": [
+    "GEAR_CookingPot"
+  ],
+  "BlueprintData": {
+    "Name": "RECIPE_PumpkinSoup",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_PreparedPumpkin",
+        "Quantity": 0.25,
+        "Units": "Kilograms"
+      },
+      {
+        "Item": "GEAR_Carrot",
+        "Quantity": 0.15,
+        "Units": "Kilograms"
+      },
+      {
+        "Item": "GEAR_Potato",
+        "Quantity": 0.1,
+        "Units": "Kilograms"
+      }
+    ],
+    "RequiredPowder": [
+      {
+        "Powder": "POWDER_Salt",
+        "QuantityInKilograms": 0.01
+      },
+      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.05
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_Broth",
+        "VolumeInLitres": 0.2
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedPumpkinSoup",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "Play_CraftingStewVegetable"
+  }
+}

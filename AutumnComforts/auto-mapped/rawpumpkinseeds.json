@@ -1,0 +1,45 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_RawPumpkinSeeds",
+    "DescriptionLocalizatonId": "GAMEPLAY_RawPumpkinSeedsDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.05,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvPlantAcorns",
+    "PutBackAudio": "Play_SndInvPlantAcorns_Drop",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.45,
+    "InspectAngles": [
+      -25.0,
+      50.0,
+      -45.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "",
+    "MultipleUnitTextId": "",
+    "StackSprite": "ico_units_acorn",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_RawPumpkinSeeds",
+    "StackConditionDifferenceConstraint": 1.0
+  }
+}

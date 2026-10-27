@@ -1,0 +1,45 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_Pumpkin",
+    "DescriptionLocalizatonId": "GAMEPLAY_PumpkinDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 1.5,
+    "DaysToDecay": 200,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvCarrotPickup",
+    "PutBackAudio": "Play_SndInvCarrotPutBack",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      10.0,
+      90.0,
+      -15.0
+    ],
+    "InspectOffset": [
+      0.0,
+      -0.125,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "",
+    "MultipleUnitTextId": "",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_Pumpkin",
+    "StackConditionDifferenceConstraint": 0.01
+  }
+}

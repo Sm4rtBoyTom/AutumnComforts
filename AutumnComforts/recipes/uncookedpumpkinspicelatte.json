@@ -1,0 +1,46 @@
+{
+  "RecipeName": "GAMEPLAY_CookedPumpkinSpiceLatte",
+  "RecipeDescription": "GAMEPLAY_CookedPumpkinSpiceLatteDescription",
+  "RecipeIcon": "",
+  "RequiredSkillLevel": 3,
+  "AllowedCookingPots": [
+    "GEAR_CookingPot",
+    "GEAR_Skillet"
+  ],
+  "BlueprintData": {
+    "Name": "RECIPE_PumpkinSpiceLatte",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_PreparedPumpkin",
+        "Quantity": 0.05,
+        "Units": "Kilograms"
+      },
+      {
+        "Item": "GEAR_CoffeeTin",
+        "Count": 1,
+        "Units": "Count"
+      },
+      {
+        "Item": "GEAR_AcornGrounds",
+        "Count": 1,
+        "Units": "Count"
+      },
+      {
+        "Item": "GEAR_CondensedMilk",
+        "Quantity": 0.05,
+        "Units": "Kilograms"
+      }
+    ],
+    "RequiredPowder": [],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.35
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedPumpkinSpiceLatte",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 5,
+    "CraftingAudio": "Play_CraftingPorridge"
+  }
+}
