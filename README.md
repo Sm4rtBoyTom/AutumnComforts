@@ -1,5 +1,5 @@
-  // IMAGE HERE
-  
+<img width="1920" height="1080" alt="Thumb_AutumnComforts" src="https://github.com/user-attachments/assets/bc23daab-662a-416b-9c5a-be55c9dee93c" />
+
   -----
   
 **AutumnComforts is a mod for [The Long Dark](https://www.thelongdark.com). 
