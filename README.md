@@ -23,7 +23,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
   ## **Installation**
   
   - **Put all of the dependencies in your mods folder.**
-  - **Download `StalkerAidsAndSupplements.modcomponent` and paste it in your mods folder.**
+  - **Download `AutumnComforts.modcomponent` and `AutumnComforts.dll` then paste them in your mods folder.**
     - **Congratulations, you can now successfully launch the game, enjoy!**
   
    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
