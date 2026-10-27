@@ -9,8 +9,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
 ## **Features**
 
- AutumnComforts is a modification that expands on The Long Dark's First Aid system.
- > This mod was heavily inspired by the S.T.A.L.K.E.R franchise and its community made projects _(Anomaly/GAMMA)_. If I did not have the opportunity to play S.T.A.L.K.E.R. this mod would not exist.
+ AutumnComforts is a modification that adds new Autumn themed recipes and food items.
   
   - **New Medical Items:** Burdock dressing, ibuprofen, morphine, first aid kit, sleeping pills, Anabiotics, cigarettes.
   - **Tweaks of existing mechanics/items:** Vitamin-C and caffeine tablets spawn naturally in the world, improved energy drink, Infection changes, ModSettings.
