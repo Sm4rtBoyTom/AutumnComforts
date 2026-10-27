@@ -40,7 +40,9 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
   - **Put all of the dependencies in your mods folder.**
   - **Download `AutumnComforts.modcomponent` and `AutumnComforts.dll` then paste them in your mods folder.**
     - **Congratulations, you can now successfully launch the game, enjoy!**
+
   
    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
+
 
   ### Big thanks to the wonderful TLD Modding community that helped me make all this possible.
