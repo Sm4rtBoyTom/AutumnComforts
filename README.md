@@ -11,67 +11,21 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
  AutumnComforts is a modification that adds new Autumn themed recipes and food items.
   
-  - **New Medical Items:** Burdock dressing, ibuprofen, morphine, first aid kit, sleeping pills, Anabiotics, cigarettes.
-  - **Tweaks of existing mechanics/items:** Vitamin-C and caffeine tablets spawn naturally in the world, improved energy drink, Infection changes, ModSettings.
-  - **Food/Drink Sweetening:** New mechanic allowing sweetening of foods and drink with jam or sugar.
-  - **Smoking Mechanic:** Smoking, new high risk high reward mechanic, comes with it's own custom afflictions.
-  - **And more!**
-
-> [!TIP]
-> **For detailed explanation and description of the mods features please visit the mod's [Wiki](https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/wiki)**
-
-> [!NOTE]
-> Since version 3.0.0 this mod is compatible with Improved Afflictions blood drug level mechanic!
-
-> [!CAUTION]
-> The mod should be compatible with most mods, however I can't rule out potential conflict with other mods that add or affect afflictions.
+  - **New Food Items:** Pumpkin Pie, Pumpkin Soup, Roasted Pumpkin Seeds, Pumpkin Spice Latte, Prepared Pumpkin.
+  - **New Decorative Items** Pumpkin, Decorative Pumpkin.
 
 ## **Required Dependencies**
 
 #### For this mod to work, ensure you have the following mods below:
 
-- **[AfflictionComponent](https://github.com/EtherSystem/ExpandedTradingFramework) - and it's dependencies. (Required)**
-- **[Expanded Trading Framework](https://github.com/TLD-Mods/AfflictionComponent) - and it's dependencies. (Required)**
 - **[Modcomponent](https://github.com/dommrogers/ModComponent) - and it's dependencies. (Required)**
-- **[ModData](https://github.com/dommrogers/ModData) (Required)**
-- **[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/) (Required)**
-- **[Moment](https://github.com/No3371/TLD-Moment) - and it's dependencies. (Required)**
-
-
-- **[AlcoholMod](https://github.com/No3371/AlcoholMod) - Optional, but highly recommended.**  _(some features may not work as intended without it)_
-
 
   ## **Installation**
   
   - **Put all of the dependencies in your mods folder.**
-  - **Download both the `StalkerAidsAndSupplements.dll` and `StalkerAidsAndSupplements.modcomponent` paste them in your mods folder.**
+  - **Download `StalkerAidsAndSupplements.modcomponent` and paste it in your mods folder.**
     - **Congratulations, you can now successfully launch the game, enjoy!**
-
-> [!NOTE]
-> **This mod replaces the following mods:**
-> 
-  > - **[TLD Morphine](https://github.com/Atlas-Lumi/TLD-Morphine) - by Atlas-Lumi and Thekillergreece**
-  > 
-  > - **[TLD Cigarettes](https://github.com/Atlas-Lumi/TLD-Cigarettes) - by Atlas-Lumi and Thekillergreece**
-
-## **Contributions**
-
-### Special thanks to:
-- [**AcordUch**](https://github.com/AcordUch) and **Daves_pot** - For providing Russian translations.
-- [**deepsnowland**](https://github.com/deepsnowland) - For providing Japanese translations.
-- [**Elderly-Emre**](https://github.com/Elderly-Emre) - For providing Turkish translations.
-- [**LettereUniche**](https://github.com/LettereUniche) - For providing Italian translations.
-- **Tanui** - For providing Polish translations.
-- [**WPNsmglr**](https://github.com/WPNsmglr) - For providing Traditional Chinese translations.
-- [**EtherSystem**](https://github.com/EtherSystem) and **Mako**  - For providing French translations.
-  
-  > Note: If you don't see your name in the contributors list and wish to be mentioned, please let me know via DM on Discord.
   
    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
 
   ### Big thanks to the wonderful TLD Modding community that helped me make all this possible.
-
-> [!IMPORTANT]
-> **As of version 4.0.0 this mod has been partially developed with the assistance of LLMs.** _(AI tools)_
-> **LLMs were specifically used for debugging assistance, partial code structuring and support during the implementation of timed events.**
-> **Mod design, balancing, assets and remaining code and implementation were completely made by human dev.**
