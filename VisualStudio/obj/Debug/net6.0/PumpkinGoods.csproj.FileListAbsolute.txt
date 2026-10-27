@@ -1,0 +1,9 @@
+D:\Modding\Projects\PumpkinGoods\bin\Debug\net6.0\PumpkinGoods.deps.json
+D:\Modding\Projects\PumpkinGoods\bin\Debug\net6.0\PumpkinGoods.dll
+D:\Modding\Projects\PumpkinGoods\obj\Debug\net6.0\PumpkinGoods.csproj.AssemblyReference.cache
+D:\Modding\Projects\PumpkinGoods\obj\Debug\net6.0\PumpkinGoods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Projects\PumpkinGoods\obj\Debug\net6.0\PumpkinGoods.csproj.CoreCompileInputs.cache
+D:\Modding\Projects\PumpkinGoods\obj\Debug\net6.0\PumpkinGoods.dll
+D:\Modding\Projects\PumpkinGoods\obj\Debug\net6.0\refint\PumpkinGoods.dll
+D:\Modding\Projects\PumpkinGoods\obj\Debug\net6.0\ref\PumpkinGoods.dll
+D:\Modding\Projects\PumpkinGoods\obj\Debug\net6.0\PumpkinG.D0DFB619.Up2Date

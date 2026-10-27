@@ -1,0 +1,9 @@
+D:\Modding\Projects\Autumn Comforts\bin\Debug\net6.0\Autumn Comforts .deps.json
+D:\Modding\Projects\Autumn Comforts\bin\Debug\net6.0\Autumn Comforts .dll
+D:\Modding\Projects\Autumn Comforts\obj\Debug\net6.0\Autumn Comforts .csproj.AssemblyReference.cache
+D:\Modding\Projects\Autumn Comforts\obj\Debug\net6.0\Autumn Comforts .GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Projects\Autumn Comforts\obj\Debug\net6.0\Autumn Comforts .csproj.CoreCompileInputs.cache
+D:\Modding\Projects\Autumn Comforts\obj\Debug\net6.0\Autumn Comforts .dll
+D:\Modding\Projects\Autumn Comforts\obj\Debug\net6.0\refint\Autumn Comforts .dll
+D:\Modding\Projects\Autumn Comforts\obj\Debug\net6.0\ref\Autumn Comforts .dll
+D:\Modding\Projects\Autumn Comforts\obj\Debug\net6.0\Autumn C.615C767E.Up2Date
