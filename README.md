@@ -35,7 +35,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
 - **[Modcomponent](https://github.com/dommrogers/ModComponent) - and it's dependencies. (Required)**
 
-  ## **Installation**
+ ## **Installation**
   
   - **Put all of the dependencies in your mods folder.**
   - **Download `AutumnComforts.modcomponent` and `AutumnComforts.dll` then paste them in your mods folder.**
