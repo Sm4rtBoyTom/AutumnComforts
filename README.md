@@ -14,6 +14,12 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
   - **New Food Items:** Pumpkin Pie, Pumpkin Soup, Roasted Pumpkin Seeds, Pumpkin Spice Latte, Prepared Pumpkin.
   - **New Decorative Items** Pumpkin, Decorative Pumpkin.
 
+
+
+## **Showcase**
+
+-----
+
 ## **Required Dependencies**
 
 #### For this mod to work, ensure you have the following mods below:
