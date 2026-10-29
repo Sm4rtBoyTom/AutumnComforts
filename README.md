@@ -27,6 +27,13 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
 </details>
 
+<details>
+  <summary>Video - LitharTLD</summary>
+
+[THE LONG DARK: Autumn Comforts](https://www.youtube.com/watch?v=xMlEiu98Q9A)
+
+</details>
+
 -----
 
 ## **Required Dependencies**
