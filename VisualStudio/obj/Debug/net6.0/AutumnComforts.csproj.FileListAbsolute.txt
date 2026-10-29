@@ -1,0 +1,9 @@
+C:\Users\Tomik\Desktop\AutumnComforts\bin\Debug\net6.0\AutumnComforts.deps.json
+C:\Users\Tomik\Desktop\AutumnComforts\bin\Debug\net6.0\AutumnComforts.dll
+C:\Users\Tomik\Desktop\AutumnComforts\obj\Debug\net6.0\AutumnComforts.csproj.AssemblyReference.cache
+C:\Users\Tomik\Desktop\AutumnComforts\obj\Debug\net6.0\AutumnComforts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomik\Desktop\AutumnComforts\obj\Debug\net6.0\AutumnComforts.csproj.CoreCompileInputs.cache
+C:\Users\Tomik\Desktop\AutumnComforts\obj\Debug\net6.0\AutumnComforts.dll
+C:\Users\Tomik\Desktop\AutumnComforts\obj\Debug\net6.0\refint\AutumnComforts.dll
+C:\Users\Tomik\Desktop\AutumnComforts\obj\Debug\net6.0\ref\AutumnComforts.dll
+C:\Users\Tomik\Desktop\AutumnComforts\obj\Debug\net6.0\AutumnCo.AD4404BD.Up2Date

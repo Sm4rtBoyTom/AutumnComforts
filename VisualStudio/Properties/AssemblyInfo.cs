@@ -1,0 +1,6 @@
+﻿[assembly: AssemblyTitle("AutumnComforts")]
+[assembly: AssemblyCopyright("Sm4rtBoyTom")]
+[assembly: AssemblyVersion("1.0.1")]
+[assembly: AssemblyFileVersion("1.0.1")]
+[assembly: MelonInfo(typeof(AutumnComforts.Main), "AutumnComforts", "1.0.1", "Sm4rtBoyTom", null)]
+[assembly: MelonGame("Hinterland", "TheLongDark")]
