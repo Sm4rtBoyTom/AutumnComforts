@@ -1,0 +1,44 @@
+{
+  "ModCookableComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_UncookedPumpkinSoup",
+    "DescriptionLocalizatonId": "GAMEPLAY_UncookedPumpkinSoupDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.35,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Food",
+    "PickUpAudio": "Play_sndInvUncookedSoupPickup",
+    "PutBackAudio": "Play_sndInvUncookedSoupPutBack",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.55,
+    "InspectAngles": [
+      -30.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "Cooking": true,
+    "CookingMinutes": 45,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0.0,
+    "CookingResult": "GEAR_CookedPumpkinSoup",
+    "BurntMinutes": 60,
+    "Type": "Liquid",
+    "CookingAudio": "Play_CookSoup",
+    "StartCookingAudio": "Play_cookingPlacementSoup"
+  }
+}

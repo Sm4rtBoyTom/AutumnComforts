@@ -1,0 +1,44 @@
+{
+  "ModCookableComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_UncookedPumpkinPie",
+    "DescriptionLocalizatonId": "GAMEPLAY_UncookedPumpkinPieDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.35,
+    "DaysToDecay": 5,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Food",
+    "PickUpAudio": "Play_sndInvCookedPiePickup",
+    "PutBackAudio": "Play_sndInvCookedPiePutBack",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.75,
+    "InspectAngles": [
+      55.0,
+      -155.0,
+      -5.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "Cooking": true,
+    "CookingMinutes": 120,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0.0,
+    "CookingResult": "GEAR_CookedPumpkinPie",
+    "BurntMinutes": 60,
+    "Type": "Meat",
+    "CookingAudio": "Play_CookPie",
+    "StartCookingAudio": "Play_cookingPlacementPie"
+  }
+}
