@@ -8,22 +8,12 @@
     "GEAR_Skillet"
   ],
   "BlueprintData": {
-    "Name": "RECIPE_PumpkinSpiceLatte",
+    "Name": "",
     "RequiredGear": [
       {
         "Item": "GEAR_PreparedPumpkin",
         "Quantity": 0.05,
         "Units": "Kilograms"
-      },
-      {
-        "Item": "GEAR_CoffeeTin",
-        "Count": 1,
-        "Units": "Count"
-      },
-      {
-        "Item": "GEAR_AcornGrounds",
-        "Count": 1,
-        "Units": "Count"
       },
       {
         "Item": "GEAR_CondensedMilk",
@@ -34,13 +24,21 @@
     "RequiredPowder": [],
     "RequiredLiquid": [
       {
+        "Liquid": "LIQUID_Coffee",
+        "VolumeInLitres": 0.1
+      },
+      {
+        "Liquid": "LIQUID_AcornCoffee",
+        "VolumeInLitres": 0.1
+      },
+      {
         "Liquid": "LIQUID_WaterPotable",
-        "VolumeInLitres": 0.35
+        "VolumeInLitres": 0.15
       }
     ],
     "CraftedResult": "GEAR_UncookedPumpkinSpiceLatte",
     "CraftedResultCount": 1,
-    "DurationMinutes": 5,
+    "DurationMinutes": 10,
     "CraftingAudio": "Play_CraftingPorridge"
   }
 }

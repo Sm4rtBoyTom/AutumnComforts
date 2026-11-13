@@ -2,7 +2,7 @@
   "RecipeName": "GAMEPLAY_CookedPumpkinSoup",
   "RecipeDescription": "GAMEPLAY_CookedPumpkinSoupDescription",
   "RecipeIcon": "",
-  "RequiredSkillLevel": 1,
+  "RequiredSkillLevel": 3,
   "AllowedCookingPots": [
     "GEAR_CookingPot"
   ],
@@ -21,18 +21,14 @@
       },
       {
         "Item": "GEAR_Potato",
-        "Quantity": 0.1,
-        "Units": "Kilograms"
+        "Count": 1,
+        "Units": "Count"
       }
     ],
     "RequiredPowder": [
       {
         "Powder": "POWDER_Salt",
         "QuantityInKilograms": 0.01
-      },
-      {
-        "Powder": "POWDER_Flour",
-        "QuantityInKilograms": 0.05
       }
     ],
     "RequiredLiquid": [

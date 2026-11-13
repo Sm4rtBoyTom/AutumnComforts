@@ -29,7 +29,7 @@
     "RequiredLiquid": [
       {
         "Liquid": "LIQUID_WaterPotable",
-        "VolumeInLitres": 0.15
+        "VolumeInLitres": 0.25
       },
       {
         "Liquid": "LIQUID_CookingOil",
