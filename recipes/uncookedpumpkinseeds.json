@@ -1,0 +1,39 @@
+{
+  "RecipeName": "GAMEPLAY_CookedPumpkinSeeds",
+  "RecipeDescription": "GAMEPLAY_CookedPumpkinSeedsDescription",
+  "RecipeIcon": "",
+  "RequiredSkillLevel": 1,
+  "AllowedCookingPots": [
+    "GEAR_Skillet"
+  ],
+  "BlueprintData": {
+    "Name": "RECIPE_PumpkinSeeds",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_RawPumpkinSeeds",
+        "Count": 3,
+        "Units": "Count"
+      },
+      {
+        "Item": "GEAR_MapleSyrup",
+        "Quantity": 0.05,
+        "Units": "Kilograms"
+      }
+    ],
+    "RequiredPowder": [],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_CookingOil",
+        "VolumeInLitres": 0.05
+      },
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.15
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedPumpkinSeeds",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_CraftingAcornsShelling"
+  }
+}
